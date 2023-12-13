@@ -1,7 +1,15 @@
 package pwo.app;
 
+/**
+ * klasa Seguence
+ * @author admin
+ */
 public class Sequence {
 
+    /**
+     * metoda main do wyboru
+     * @param args
+     */
     public static void main(String[] args) {
 
         switch (args.length) {
